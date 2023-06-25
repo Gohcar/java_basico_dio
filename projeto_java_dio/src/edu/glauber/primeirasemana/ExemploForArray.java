@@ -1,4 +1,4 @@
-package edu.glauber;
+package edu.glauber.primeirasemana;
 
 public class ExemploForArray {
     public static void main(String[] args) {
